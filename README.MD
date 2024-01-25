@@ -5,7 +5,7 @@
 # [Paid Memberships Pro - MPesa Gateway Integration](https://www.paidmembershipspro.com/add-ons/mpesa-payment-gateway/) #
 [comment]: # (Generate badges from shields.io, only works for .org plugins to get other stats etc. We'd have to create our own endpoints for Premium plugins)
 
-![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dy/pmpro-MPesa?style=flat-square) ![License](https://img.shields.io/badge/license-GPL--2.0%2B-red.svg?style=flat-square)
+![License](https://img.shields.io/badge/license-GPL--2.0%2B-red.svg?style=flat-square)
 
 # Paid Memberships Pro - MPesa Gateway Integration
 
